@@ -1,1 +1,0 @@
-Toronto Segmentation and Clustering
