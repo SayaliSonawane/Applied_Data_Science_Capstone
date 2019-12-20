@@ -1,6 +1,9 @@
 
 # A program For Data Science Conference
+Notebook Link: <br>
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/bd5593cc-fcd2-423e-90d4-235619c03b4a/view?access_token=ab81ee2cad031c0ad7360ff28ba2fe6f1fd53653d9de3a3fee880870fa3aeb4c
 
+<hr>
 Introduction<br>
 AutoTrader is a company based in Manchester is organizing event for 5 days for a group of Data Scientists from all over the world.The company has to put a good program, including a hotel of residence, a hall for meetings, places of landscape to visit, stores for shopping, restaurants,carparks and cafes. So the company’s purpose is to make a list of places of landscape in Manchester, including the nearest restaurants, cafes, and shopping stores for each place.<br>
 <hr>
